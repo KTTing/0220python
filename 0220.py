@@ -1,3 +1,3 @@
 studentA = 'I\'m StudentA.'
-print("ㄇㄇ是87")
+print("ㄇㄇ是97")
 print(studentA)
